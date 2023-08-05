@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ImportarCodigosCsvTelespazzio": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\josea\\Desktop\\Telespazzio\\Copia de Tabla_para_JA.csv\" \"C:\\Users\\josea\\Desktop\\Telespazzio\\tabla.tab.xml\" \"C:\\Users\\josea\\Desktop\\Telespazzio\\tablaModificada.tab.xml\""
+    }
+  }
+}
